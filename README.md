@@ -2,6 +2,8 @@
 
 Pretty run-of-the-mill [Oh My Zsh](https://ohmyz.sh/) theme based on [the "pmcgee" theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/pmcgee.zsh-theme) with some adjustments to satisfy personal requirements.
 
+It's called `kallehauge` because... creativity 🤌
+
 ## Screenshots
 
 ![Example](example.png)
