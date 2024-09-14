@@ -1,6 +1,6 @@
-# Kallehauge Oh My Zsh Theme
+# Oh My Zsh Theme
 
-Pretty run-of-the-mill Oh My Zsh theme based on [the "pmcgee" theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/pmcgee.zsh-theme) with some adjustments to satisfy personal requirements.
+Pretty run-of-the-mill [Oh My Zsh](https://ohmyz.sh/) theme based on [the "pmcgee" theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/pmcgee.zsh-theme) with some adjustments to satisfy personal requirements.
 
 ## Screenshots
 
